@@ -1,0 +1,53 @@
+---
+name: "FusionMC"
+url: "fusionmcmc"
+hidden: false
+only-premium: false
+versions:
+- "1.18.1"
+- "1.18"
+- "1.17.1"
+- "1.17"
+- "1.16.5"
+- "1.16.4"
+- "1.16.3"
+- "1.16.2"
+- "1.16.1"
+- "1.16"
+- "1.15.2"
+- "1.15.1"
+- "1.15"
+- "1.14.4"
+- "1.13"
+- "1.12"
+- "1.11"
+- "1.10"
+- "1.9"
+- "1.8"
+- "1.7.10"
+categories:
+- "bedwars"
+- "survival"
+- "skywars"
+- "sg"
+- "minigames"
+staff:
+- Owner:
+  - b775df58-fb74-4e62-a8fe-d80f29560a5a
+  - 448b6910-1dbc-46f4-9176-c5e6382183ef
+- SrAdmin:
+  - 1d7f6f68-73db-47fb-b366-6dd2b4a44b36
+  - d51b35c7-45bc-4493-b01d-acadc21452d1
+www: "https://www.fusionmc.ml"
+forum: ""
+telegram : "https://t.me/FusionMCComunity"
+discord: "https://dsc.gg/fusion-mc"
+twitter: ""
+instagram: "fusionmc.ml"
+teamspeak: "ts.fusionmc.ml"
+mumble: ""
+query_port: 25849
+theme_color: "#0000FF"
+discordUser: ""
+---
+![IMG]()
